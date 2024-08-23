@@ -2,6 +2,7 @@
 
 This project is a clone of YouTube built with React, Material UI, and the RapidAPI YouTube API that provides an ad-free video watching experience.
 
+``` Hosted Link : https://amazing-youtube-clone.netlify.app/ ```
 
 ## 🛠️ Key Features
 
